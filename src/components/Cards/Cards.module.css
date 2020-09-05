@@ -1,0 +1,28 @@
+ .container{
+   
+     margin:40px 30px;
+ }
+ .card{
+   
+     display: flex;
+     
+     justify-content:center;
+     margin:0 25px !important;
+ }
+ .infected{
+   
+     border-bottom:10px solid  rgb(70, 70, 216);
+    
+ }
+ .recovery{
+    border-bottom:10px solid green ;
+
+ }
+ .dead{
+    border-bottom:10px solid red ;
+
+ }
+ .active{
+     padding-top:10px !important;
+     
+ }
